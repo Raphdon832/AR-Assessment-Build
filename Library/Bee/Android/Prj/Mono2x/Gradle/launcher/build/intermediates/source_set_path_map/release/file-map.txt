@@ -1,0 +1,11 @@
+com.RyanRaphael.ARassessment.launcher-jetified-arcore_client-0 C:\Users\Z8\.gradle\caches\transforms-3\535220ad59c66261cb0c4a8c43b91031\transformed\jetified-arcore_client\res
+com.RyanRaphael.ARassessment.launcher-pngs-1 D:\Unity Projects\My project (1)\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.RyanRaphael.ARassessment.launcher-resValues-2 D:\Unity Projects\My project (1)\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.RyanRaphael.ARassessment.launcher-rs-3 D:\Unity Projects\My project (1)\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.RyanRaphael.ARassessment.launcher-mergeReleaseResources-4 D:\Unity Projects\My project (1)\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.RyanRaphael.ARassessment.launcher-mergeReleaseResources-5 D:\Unity Projects\My project (1)\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.RyanRaphael.ARassessment.launcher-merged_res-6 D:\Unity Projects\My project (1)\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.RyanRaphael.ARassessment.launcher-main-7 D:\Unity Projects\My project (1)\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.RyanRaphael.ARassessment.launcher-release-8 D:\Unity Projects\My project (1)\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.RyanRaphael.ARassessment.launcher-packaged_res-9 D:\Unity Projects\My project (1)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.RyanRaphael.ARassessment.launcher-packaged_res-10 D:\Unity Projects\My project (1)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\release

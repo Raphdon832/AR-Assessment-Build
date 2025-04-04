@@ -22,6 +22,9 @@ public class PlaceObject : MonoBehaviour
         raycastManager = GetComponent<ARRaycastManager>();
     }
 
+
+    // Get and register touch input methods
+
     bool TryGetTouchPosition(out Vector2 touchPosition)
     {
         if (Input.touchCount > 0)
